@@ -68,7 +68,7 @@ const Footer = () => {
             <FaInstagram />
             <FaTwitter />
             <FaTwitch />
-            <a href='https://github.com/Neampi'><FaGithub /></a>
+            <a href='https://github.com/ppyecom'><FaGithub /></a>
         </div>
         </div>
     </div>
